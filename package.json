@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/web-mech/peerjs-nodejs.git"
+    "url": "git://github.com/JamieRez/peerjs-nodejs.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "electron-webrtc": "^0.3.0",
-    "peerjs": "https://github.com/web-mech/peerjs.git",
+    "peerjs": "https://github.com/JamieRez/peerjs.git",
     "ws": "^4.0.0",
     "xmlhttprequest": "^1.8.0"
   },
